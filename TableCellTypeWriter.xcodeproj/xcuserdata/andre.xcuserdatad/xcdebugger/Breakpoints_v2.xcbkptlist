@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableCellTypeWriter/ViewController.swift"
+            timestampString = "513583030.135491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "setTextWithTypeAnimation(id:typedText:pauseCharacterArray:characterInterval:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableCellTypeWriter/ViewController.swift"
+            timestampString = "513583030.135491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "setTextWithTypeAnimation(id:typedText:pauseCharacterArray:characterInterval:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in TableCellTypeWriter):__ObjC.UILabel.(setTextWithTypeAnimation (id : Swift.String, typedText : Swift.String, pauseCharacterArray : Swift.Dictionary&lt;Swift.Int, Swift.Double&gt;, characterInterval : Swift.Double) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "TableCellTypeWriter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andre/Development/TableCellTypeWriter/TableCellTypeWriter/ViewController.swift"
+                  timestampString = "513583056.695674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in TableCellTypeWriter):__ObjC.UILabel.(setTextWithTypeAnimation (id : Swift.String, typedText : Swift.String, pauseCharacterArray : Swift.Dictionary&lt;Swift.Int, Swift.Double&gt;, characterInterval : Swift.Double) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "TableCellTypeWriter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andre/Development/TableCellTypeWriter/TableCellTypeWriter/ViewController.swift"
+                  timestampString = "513583056.697756"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "434">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TableCellTypeWriter/ViewController.swift"
+            timestampString = "513582969.662474"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
